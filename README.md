@@ -10,7 +10,7 @@ This SPA reflects the weather in the particular city.
     
 This SPA has two themes: light and dark. Switching between themes depends on the current users time zone. This feature were implemented by function `GetTheme`
 
-The city established by default is `Samara`. The city can be easely changed  in main component `<App>` state 
+The city established by default is `Samara`. The city can be easily changed  in main component `<App>` state 
 
 It is developed specially for SimbirSoft Frontend workshop.
 ### Author `Ilya Severov`
